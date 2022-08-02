@@ -1,4 +1,3 @@
-package demo-paracel.java;
 
 public class dat {
     static int x = 10;
